@@ -2,7 +2,7 @@
 Perform GATK hard-filtering of germline SNVs and indels
 
 ## Reference
-https://pmbio.org/module-04-germline/0004/02/02/Germline_SnvIndel_FilteringAnnotationReview/
+https://gatk.broadinstitute.org/hc/en-us/articles/360035531112?id=2806
 
 ## Example:
 ```bash
